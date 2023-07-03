@@ -10,7 +10,7 @@ Kubernetes documentation
 * [CIS Benchmarks](https://downloads.cisecurity.org/#/)
 * [KStig](https://ncp.nist.gov/checklist/996)
 * [NSA Recommendations](https://www.cisa.gov/news-events/alerts/2022/03/15/updated-kubernetes-hardening-guide)
-* 
+
 ## TTPs / Attack Matrices
 
 * [MITRE ATT&CK Containers Matrix](https://attack.mitre.org/matrices/enterprise/containers/)
