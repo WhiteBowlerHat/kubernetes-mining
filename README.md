@@ -47,23 +47,6 @@ Kubernetes documentation
 * [kube-iptables-tailer](https://github.com/box/kube-iptables-tailer)
 * [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget)
 
-
-## Detection Rules and Analytics
-
-* [Elastic kubernetes detection rules ](https://github.com/elastic/detection-rules/tree/main/rules/integrations/kubernetes)
-* [Falco Rules](https://github.com/falcosecurity/rules)
-* [Panther Labs gcp_k8s_rules](https://github.com/panther-labs/panther-analysis/tree/master/rules/gcp_k8s_rules)
-* [Sigma cloud/azure/kube*.yml](https://github.com/SigmaHQ/sigma/tree/master/rules/cloud/azure)
-* [Sigma cloud/gcp/kube*.yml](https://github.com/SigmaHQ/sigma/tree/master/rules/cloud/gcp)
-* [Splunk Analytic Story: Kubernetes Scanning Activity](https://research.splunk.com/stories/kubernetes_scanning_activity/) 
-* [Splunk Analytic Story: Kubernetes Sensitive Object Access Activity](https://research.splunk.com/stories/kubernetes_sensitive_object_access_activity/) 
-* [Tracee Signatures](https://github.com/aquasecurity/tracee/tree/main/signatures)
-* Projectdiscovery/nuclei-templates 
-  * [technologies/kubernetes](https://github.com/projectdiscovery/nuclei-templates/tree/main/technologies/kubernetes)
-  * [exposed-panels/kube*.yaml](https://github.com/projectdiscovery/nuclei-templates/tree/main/exposed-panels)
-  * [misconfiguration/kubernetes](https://github.com/projectdiscovery/nuclei-templates/tree/main/misconfiguration/kubernetes)
-  * [exposures/configs/kube*.yaml](https://github.com/projectdiscovery/nuclei-templates/tree/main/exposures/configs)
-
 This list of tool has been established by using different sources:
 * https://github.com/jatrost/awesome-kubernetes-threat-detection
 
