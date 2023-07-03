@@ -69,4 +69,20 @@ Kubernetes documentation
 
 This list of tool has been established by using different sources:
 * https://github.com/jatrost/awesome-kubernetes-threat-detection
-
+# Theme 4 : Articles
+* Managed Kubernetes : Our dev is on AWS, our prod is on OVH : https://dev.to/zenika/managed-kubernetes-our-dev-is-on-aws-our-prod-is-on-ovh-3nbf
+# Theme 5 : Tools needing further analysis
+* [kube-downscaler](https://codeberg.org/hjacobs/kube-downscaler)
+* [Gitlab Runner Agent](https://docs.gitlab.com/ee/user/clusters/agent/install/)
+* [Teleport](https://github.com/gravitational/teleport
+* [rakkess](https://github.com/corneliusweig/rakkess)
+* [rbac-lookup](https://github.com/fairwindsops/rbac-lookup)
+* [kubernetes-rbacq](https://github.com/sbueringer/kubernetes-rbacq)
+* [kubectl-bindrole](https://github.com/Ladicle/kubectl-bindrole)
+* [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) Tool is not very good at first glance, custom Kubiscan more optimized for the task, see Theme 3 > Audit
+* [rbIAM](https://github.com/mhausenblas/rbIAM/)
+* [rbac-view](https://github.com/jasonrichardsmith/rbac-view)
+* [rback](https://github.com/team-soteria/rback)
+* [permission-manager](https://github.com/sighupio/permission-manager)
+* [audit2rbac](https://github.com/liggitt/audit2rbac)
+* [rbac-manager](https://github.com/fairwindsops/rbac-manager)
