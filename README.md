@@ -74,7 +74,7 @@ This list of tool has been established by using different sources:
 # Theme 5 : Tools needing further analysis
 * [kube-downscaler](https://codeberg.org/hjacobs/kube-downscaler)
 * [Gitlab Runner Agent](https://docs.gitlab.com/ee/user/clusters/agent/install/)
-* [Teleport](https://github.com/gravitational/teleport
+* [Teleport](https://github.com/gravitational/teleport)
 * [rakkess](https://github.com/corneliusweig/rakkess)
 * [rbac-lookup](https://github.com/fairwindsops/rbac-lookup)
 * [kubernetes-rbacq](https://github.com/sbueringer/kubernetes-rbacq)
