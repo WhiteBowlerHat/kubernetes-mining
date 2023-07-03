@@ -44,6 +44,7 @@ Kubernetes documentation
 * [controlplaneio/simulator](https://github.com/controlplaneio/simulator)
 * [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat)
 * [Sock Shop: A Microservices Demo Application](https://microservices-demo.github.io/)
+* [Bust-a-kube](https://www.bustakube.com/)
 
 ### Attack
 
