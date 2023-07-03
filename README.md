@@ -5,8 +5,22 @@ Kubernetes documentation
 # Theme 2 : Kubernetes Management
 ## Tools
 # Theme 3 : Kubernetes Security
-## Tools
+## Guides
 
+* [CIS Benchmarks](https://downloads.cisecurity.org/#/)
+* [KStig](https://ncp.nist.gov/checklist/996)
+* [NSA Recommendations](https://www.cisa.gov/news-events/alerts/2022/03/15/updated-kubernetes-hardening-guide)
+* 
+## TTPs / Attack Matrices
+
+* [MITRE ATT&CK Containers Matrix](https://attack.mitre.org/matrices/enterprise/containers/)
+* [Threat matrix for Kubernetes](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/) 
+* [Secure containerized environments with updated threat matrix for Kubernetes](https://www.microsoft.com/en-us/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)
+* [OWASP Kubernetes Top 10](https://owasp.org/www-project-kubernetes-top-ten/)
+* [OWASP Kubernetes Top 10 (Sysdig)](https://sysdig.com/blog/top-owasp-kubernetes/)
+* [AVOLENS Kubernetes Threat Matrix](https://kubernetes-security.de/en/kubernetes_threat_matrix/#kubernetes-threat-matrix)
+  
+## Tools
 ### Detection
 
 * [falco](https://github.com/falcosecurity/falco)
@@ -43,9 +57,10 @@ Kubernetes documentation
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 
 ### Audit
-* [KubiScan]()
-* [Checkov]()
-* [kube-linter]() 
+* [KubiScan](https://github.com/cyberark/KubiScan) (Custom version : https://github.com/WhiteBowlerHat/KubiScan)
+* [Checkov](https://github.com/bridgecrewio/checkov)
+* [kube-linter](https://github.com/stackrox/kube-linter)
+* [Terrascan](https://github.com/tenable/terrascan)
 
 ### Misc
 
