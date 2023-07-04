@@ -72,6 +72,7 @@ This list of tool has been established by using different sources:
 * https://github.com/jatrost/awesome-kubernetes-threat-detection
 # Theme 4 : Articles
 * Managed Kubernetes : Our dev is on AWS, our prod is on OVH : https://dev.to/zenika/managed-kubernetes-our-dev-is-on-aws-our-prod-is-on-ovh-3nbf
+* Kubernetes bills of material : https://www.infoq.com/news/2023/06/kubernetes-bill-of-materials/
 # Theme 5 : Tools needing further analysis
 * [kube-downscaler](https://codeberg.org/hjacobs/kube-downscaler)
 * [Gitlab Runner Agent](https://docs.gitlab.com/ee/user/clusters/agent/install/)
