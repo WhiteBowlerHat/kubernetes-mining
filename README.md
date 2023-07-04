@@ -89,3 +89,4 @@ This list of tool has been established by using different sources:
 * [permission-manager](https://github.com/sighupio/permission-manager)
 * [audit2rbac](https://github.com/liggitt/audit2rbac)
 * [rbac-manager](https://github.com/fairwindsops/rbac-manager)
+* [KBOM (Kubernetes Bill Of Material](https://github.com/ksoclabs/kbom)
