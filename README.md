@@ -73,7 +73,8 @@ This list of tool has been established by using different sources:
 # Theme 4 : Articles
 * Managed Kubernetes : Our dev is on AWS, our prod is on OVH : https://dev.to/zenika/managed-kubernetes-our-dev-is-on-aws-our-prod-is-on-ovh-3nbf
 * Kubernetes bills of material : https://www.infoq.com/news/2023/06/kubernetes-bill-of-materials/
-* Choosing a CNI : https://deploy.equinix.com/developers/guides/choosing-a-cni-for-kubernetes 
+* Choosing a CNI : https://deploy.equinix.com/developers/guides/choosing-a-cni-for-kubernetes
+* 6 ways to keep your Kubernetes under control: https://www.infoworld.com/article/3700775/6-best-practices-to-keep-kubernetes-costs-under-control.html
 # Theme 5 : Tools needing further analysis
 * [kube-downscaler](https://codeberg.org/hjacobs/kube-downscaler)
 * [Gitlab Runner Agent](https://docs.gitlab.com/ee/user/clusters/agent/install/)
