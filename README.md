@@ -76,6 +76,7 @@ This list of tool has been established by using different sources:
 * Kubernetes bills of material : https://www.infoq.com/news/2023/06/kubernetes-bill-of-materials/
 * Choosing a CNI : https://deploy.equinix.com/developers/guides/choosing-a-cni-for-kubernetes
 * 6 ways to keep your Kubernetes under control: https://www.infoworld.com/article/3700775/6-best-practices-to-keep-kubernetes-costs-under-control.html
+* OWASP K8S https://itnext.io/kubernetes-owasp-top-10-supply-chain-vulnerabilities-2ed5d7bd8ed1
 # Theme 5 : Tools needing further analysis
 * [kube-downscaler](https://codeberg.org/hjacobs/kube-downscaler)
 * [Gitlab Runner Agent](https://docs.gitlab.com/ee/user/clusters/agent/install/)
