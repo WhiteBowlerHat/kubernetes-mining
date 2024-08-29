@@ -1,4 +1,4 @@
-I'm# Theme 1 : Introrduction to Kubernetes
+# Theme 1 : Introrduction to Kubernetes
 Kubernetes documentation
 ## Kubernetes cluster
 ## Basic tools
